@@ -274,7 +274,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #hero p span {
-  color: #ffffff;
+  color: #3eb8ff;
   letter-spacing: 1px;
 }
 #hero .social-links {
@@ -357,7 +357,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #728394;
+  color: #464646;
 }
 .about .content ul {
   list-style: none;
